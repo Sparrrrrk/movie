@@ -1,0 +1,399 @@
+.my_banner{
+    position: relative;
+}
+#test{
+    position: relative;
+}
+nav.navbar.navbar-default.navbar-fixed-top{
+    background: black;
+    border: none;
+    /*padding:1.2em 1em;*/
+    transition: .5s all;
+    color:#fff;
+}
+.navbar-fixed-top {
+    border-radius: 0;
+    right:0;
+    left: 0;
+    /*z-index: 1030;*/
+}
+
+.navbar-default .navbar-nav li a{
+    color: #fff;
+    font-size: 1em;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.navbar-nav{
+   margin:10px -15px;
+}
+#myCarousel.item img{
+    display:block;
+    width: 100%;
+    height:100%;
+}
+.ab-w3-agile-img {
+    background: url(../images/5.png) no-repeat;
+    width:50%;
+    height:50%;
+    background-size: auto;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 747px;
+    padding-top: 3em;
+    float: left;
+}
+.ab-w3-agile-info {
+    float: left;
+    padding: 0;
+}
+.ab-w3-agile-info-text {
+    padding: 5em 2em 0em 4em;
+}
+p.sub-text.one {
+    text-align: left;
+}
+p.sub-text {
+    text-align: center;
+    letter-spacing: 8px;
+    color: #757679;
+    font-size: 1.1em;
+    padding:20px;
+}
+h2.title-w3 {
+    font-size: 3em;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #111;
+    font-weight: 700;
+}
+.ab-w3-agile-info{
+    height:747px;
+}
+
+.ab-w3-agile-info p {
+    font-size: 1em;
+    letter-spacing: 2px;
+    color: #777;
+    margin: 1em 0;
+    line-height: 2em;
+}
+.agileits_w3layouts_more {
+    position: relative;
+}
+.agileits_w3layouts_more.menu__item.one a {
+    color: #6a67ce;
+    margin-top: 1em;
+}
+.agileits_w3layouts_more a {
+    font-size: 15px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    position: relative;
+}
+.ab-w3-agile-inner {
+    margin-top: 2em;
+    background: #000;
+
+}
+.ab-w3-agile-part{
+    background: #000 url(../images/u61.png) no-repeat 0px 0px;
+    background-size: auto;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 311px;
+    padding: 7em 3em;
+}
+.ab-w3-agile-part-two{
+    background: #000 url(../images/u30.jpg) no-repeat;
+    background-size: auto;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 311px;
+    padding: 7em 3em;
+}
+/*Services CSS*/
+#services {
+    margin-top: 5em;
+}
+.container {
+    width: 1170px;
+}
+h3.title-w3 {
+    text-align: center;
+    font-size: 2.5em;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #111;
+    font-weight: 700;
+}
+.agileits_services_sec {
+    margin-top: 3em;
+}
+.services_wthree-grid{
+    background: url(../images/u39.png) no-repeat;
+    background-size: auto;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 250px;
+    position: relative;
+    padding: 3.5em 3em;
+}
+.services_wthree-grid-one {
+    margin-top: 2em;
+}
+.services_wthree-grid-one{
+    background: url(../images/u39.png) no-repeat;
+    background-size: auto;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 250px;
+    position: relative;
+    padding: 3.5em 3em;
+
+}
+
+.services_wthree-inner {
+    display: inline-block;
+    background: rgba(0, 0, 0, 0.64);
+    padding: 3em;
+    width: 100%;
+    height:100%;
+}
+
+.wthree_serve_text_grid_right h4 {
+
+    font-size: 2em;
+    color: #fff;
+    margin-bottom: 1em;
+    letter-spacing: 1px;
+
+}
+.wthree_serve_text_grid_right p {
+
+    color: #fff;
+    line-height: 2em;
+    letter-spacing: 1px;
+
+}
+.agile_serve_grid_left_grid.agileits_services_right {
+    text-align: center;
+    margin: 0 auto;
+}
+.agile_serve_grid_left_grid {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.services_wthree-inner.two {
+    padding: 10.5em 2em;
+}
+.services_wthree-inner {
+    background: rgba(0, 0, 0, 0.64);
+    padding: 3em;
+}
+.agile_serve_grid_left_grid i {
+    font-size: 3em;
+    color: #fff;
+    line-height: 2.5em;
+}
+/*.services_wthree-grid.agile {*/
+    /*background: url(../images/1.png) no-repeat ;*/
+    /*background-size: auto;*/
+    /*background-size: cover;*/
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    /*-ms-background-size: cover;*/
+    /*min-height: 620px;*/
+    /*position: relative;*/
+/*}*/
+.services_wthree-grid-two{
+    background: url(../images/1.png) no-repeat;
+    background-size: auto;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    /*min-height: 250px;*/
+    position: relative;
+    padding: 3.5em 3em;
+    display: inline-block;
+    height: 672px;
+    text-align: center;
+    text-align: center;
+}
+.agileits_services_right {
+    text-align: center;
+}
+.wthree_serve_text_grid_right.sec-right {
+    margin-top: 1.1em;
+}
+.wthree_serve_text_grid_right h4 {
+    font-size: 2em;
+    color: #fff;
+    margin-bottom: 1em;
+    letter-spacing: 1px;
+}
+.wthree_serve_text_grid_right p {
+    color: #fff;
+    line-height: 2em;
+    letter-spacing: 1px;
+
+}
+
+
+/*Work CSS*/
+#work, #team, #gallery {
+    padding: 5em 0;
+}
+.content-bottom-in {
+    margin-top: 2.7em;
+}
+.nbs-flexisel-container {
+    position: relative;
+    max-width: 100%;
+}
+#support{
+    margin-bottom: 10%;
+}
+#contact {
+    background: url(../images/2.jpg) no-repeat ;
+    background-attachment: scroll;
+    background-size: auto;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    min-height: 650px;
+}
+.contact-top {
+    margin: 0 auto;
+    width: 80%;
+    padding-top: 7em;
+}
+
+form.contact_form {
+    text-align: center;
+    margin-top: 45px;
+}
+.message {
+    margin:10%;
+}
+/*.form-group{*/
+    /*margin-bottom: 50px;!important;*/
+/*}*/
+textarea.form-control{
+    margin-bottom: 10px;
+}
+.footer{
+    padding: 5em 0;
+    background: #171616;
+}
+.footer.container{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.footer h3 {
+    font-size: 1.3em;
+    color: #fff;
+    text-transform: uppercase;
+    margin-bottom: 1.5em;
+}
+.footer p {
+    font-size: 0.9em;
+    color: #696464;
+    margin: 1em 0;
+    line-height: 1.9em;
+    letter-spacing: 2px;
+}
+.contact .title-w3{
+    color:#fff;
+}
+.contact-btm {
+    margin-bottom: 0.5em;
+}
+.contact-btm p {
+    display: inline-block;
+    vertical-align: middle;
+    color: #696464;
+    margin: 0 0 0 10px;
+}
+.glyphicon-map-marker,.glyphicon-earphone,.glyphicon-envelope{
+    color:#ffffff;
+}
+.foot-left li {
+    display: inline-block;
+    float: left;
+    width: 48%;
+    margin:1%;
+}
+.foot-left input[type="email"] {
+    width: 100%;
+    color: #888;
+    background: #fff;
+    padding: 10px 10px;
+    outline: none;
+    border: 1px solid #fff;
+    font-size: 13px;
+    margin-bottom: 1em;
+    letter-spacing: 1px;
+}
+
+button::-moz-focus-inner, input::-moz-focus-inner {
+
+    padding: 0;
+    border: 0;
+
+}
+::before, ::after {
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
+.foot-left form input[type="submit"] {
+    color: #fff;
+    padding: 10px 21px;
+    font-size: 15px;
+    cursor: pointer;
+    background: #3be8b0;
+    margin: 4px 0 0 0px;
+    outline: none;
+    border: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.copy-right {
+    padding: 1em 0;
+    background: #030303;
+    text-align: center;
+}
+.copy-right p {
+    color: #FFF;
+    letter-spacing: 1px;
+}
